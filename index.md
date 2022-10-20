@@ -13,28 +13,28 @@ This training course will introduce you to the basic concepts of data acquisitio
     <thead>
         <tr>
             <th></th>
-            <th align="center">Monday</th>
             <th align="center">Tuesday</th>
             <th align="center">Wednesday</th>
             <th align="center">Thursday</th>
             <th align="center">Friday</th>
+            <th align="center">Monday</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Seminar</td>
             <td style="color:chocolate" align="center">Introduction to Bonsai</td>
-            <td style="color:chocolate" align="center">DeepLabCut<hr>Synchronization</td>
+            <td style="color:chocolate" align="center">Pose Tracking<hr>Synchronization</td>
             <td style="color:chocolate" align="center">Higher Order Operators</td>
             <td style="color:chocolate" align="center">BonVision</td>
-            <td style="color:chocolate" align="center">BonZeb<hr>Automation</td>
+            <td style="color:chocolate" align="center">Wrap-up</td>
         </tr>
         <tr>
             <td>Workshop</td>
             <td style="color:cornflowerblue" align="center">Acquisition and Tracking</td>
             <td style="color:cornflowerblue" align="center">Closed-loop experiments</td>
             <td style="color:cornflowerblue" align="center">Operant behavior</td>
-            <td style="color:cornflowerblue" align="center">Vision experiments</td>
+            <td style="color:cornflowerblue" align="center">Visual environments</td>
             <td style="color:cornflowerblue" align="center">Final projects</td>
         </tr>
     </tbody>
@@ -48,7 +48,7 @@ This training course will introduce you to the basic concepts of data acquisitio
 - Measuring behavior using voltages and an Arduino.
 
 ### Day 2 - Real-time closed-loop experiments
-- Markerless behavior tracking using [Bonsai + DeepLabCut](https://github.com/bonsai-rx/deeplabcut){:target="_blank"}.
+- Real-time markerless pose tracking using [Bonsai + DeepLabCut](https://github.com/bonsai-rx/deeplabcut){:target="_blank"} and [Bonsai + SLEAP](https://github.com/bonsai-rx/sleap){:target="_blank"}.
 - Data synchronization and measuring closed-loop latency.
 - Conditional effects. Triggering a stimulus based on video activity.
 - Continuous feedback. Modulate stimulus intensity with speed or distance.
@@ -68,9 +68,9 @@ This training course will introduce you to the basic concepts of data acquisitio
 - Building variable trial structures.
 - Logging stimulus and response outcomes.
 
-### Day 5 - Extending Bonsai
-- Multi-animal tracking and body part feature extraction with [BonZeb](https://github.com/ncguilbeault/BonZeb){:target="_blank"}.
-- Reproducible deployment and automation of experiments.
+### Day 5 - Wrap-up
+- How to extend Bonsai with scripting.
+- Reproducible deployment and versioning of experiments.
 - Interfacing Bonsai with Python and MATLAB.
 - Bonsai hackathon and project presentations.
-- Where Bonsai is going.
+- Closing remarks.
