@@ -31,7 +31,7 @@ permalink: /slides/intro/
   * Harp
   * Open-Ephys
   * Fiber photometry, etc
-  * DeepLabCut
+  * DeepLabCut, SLEAP
   * ...
 
 ---
@@ -227,7 +227,7 @@ permalink: /slides/intro/
   <img src="../../assets/images/bonsai-dlc.svg" alt="Bonsai-DeepLabCut" />
   <iframe src="https://www.youtube.com/embed/0aachcS0CUY?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;loop=1&amp;playlist=0aachcS0CUY&amp;showinfo=0&amp;rel=0&amp;html5=1" width="500px" height="300px"></iframe>
   <a href="https://github.com/bonsai-rx/deeplabcut/">github.com/bonsai-rx/deeplabcut</a>
-  <p>Matthis et al.</p>
+  <p>Mathis et al., Nat Neurosci, 2018</p>
 </section>
 
 <section>
@@ -235,7 +235,15 @@ permalink: /slides/intro/
   <img src="../../assets/images/bonsai-bonzeb.svg" alt="BonZeb" />
   <video data-autoplay src="https://github.com/ncguilbeault/BonZeb/raw/master/Videos/Supplemental%20video%206%20-%20Multi-animal%20tracking%20with%20OMR.mp4" height="300px"></video>
   <a href="https://ncguilbeault.github.io/BonZeb/">ncguilbeault.github.io/BonZeb</a>
-  <p>Nicholas Guilbeault et al. </p>
+  <p>Guilbeault et al., Sci Rep, 2021</p>
+</section>
+
+<section>
+  <h4>Multi-animal pose and identity tracking</h4>
+  <img src="../../assets/images/bonsai-sleap.svg" alt="Bonsai-SLEAP" />
+  <iframe src="https://www.youtube.com/embed/e3NDNKh_OoM?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;loop=1&amp;playlist=e3NDNKh_OoM&amp;showinfo=0&amp;rel=0&amp;html5=1" width="500px" height="300px"></iframe>
+  <a href="https://bonsai-rx.org/sleap/">bonsai-rx.org/sleap</a>
+  <p>Pereira et al., Nat Methods, 2022</p>
 </section>
 
 <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
