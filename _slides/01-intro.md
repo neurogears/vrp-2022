@@ -201,7 +201,7 @@ permalink: /slides/intro/
   <h4>Next generation open ephys</h4>
   <img src="../../assets/images/nextgen-ephys.png" alt="ONI - Open Neuro Interface" width="500px" />
   <iframe src="https://www.youtube.com/embed/8xC404aTSUo?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;loop=1&amp;playlist=8xC404aTSUo&amp;showinfo=0&amp;rel=0&amp;html5=1" width="400px" height="300px"></iframe>
-  <a href="https://open-ephys.org/next-gen-acquisition-system">open-ephys.org/next-gen-acquisition-system</a>
+  <a href="https://open-ephys.github.io/onix-docs/">open-ephys.github.io/onix-docs</a>
   <p>Jon Newman et al. @ Open-Ephys</p>
 </section>
 
