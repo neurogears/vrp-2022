@@ -1,7 +1,7 @@
 ---
 layout: worksheet
 title: Acquisition and Tracking
-permalink: /worksheets/acquisition/
+permalink: /tutorials/acquisition.html
 ---
 
 Getting Started

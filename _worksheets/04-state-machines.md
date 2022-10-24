@@ -1,7 +1,7 @@
 ---
 layout: worksheet
 title: State Machines
-permalink: /worksheets/state-machines/
+permalink: /tutorials/state-machines.html
 ---
 
 When designing operant behaviour assays in systems neuroscience, it is useful to describe the task as a sequence of states the system goes through (e.g. stimulus on, stimulus off, reward, inter-trial interval, etc). Progression through these states is driven by events, which can be either internal or external to the system (e.g. button press, timeout, stimulus offset, movement onset). It is common to describe the interplay between states and events in the form of a finite-state machine diagram, or graph, where nodes are states, and arrows are events.

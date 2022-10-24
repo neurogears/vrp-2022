@@ -1,7 +1,7 @@
 ---
 layout: worksheet
 title: Vision Psychophysics
-permalink: /worksheets/vision-psychophysics/
+permalink: /tutorials/vision-psychophysics.html
 ---
 
 Getting Started

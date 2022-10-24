@@ -1,7 +1,7 @@
 ---
 layout: worksheet
 title: Ephys Synchronization
-permalink: /worksheets/synching-ephys/
+permalink: /tutorials/synching-ephys.html
 optional: "true"
 ---
 
