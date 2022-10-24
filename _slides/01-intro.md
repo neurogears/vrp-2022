@@ -192,7 +192,7 @@ permalink: /slides/intro/
 #### Hardware synchronized acquisition & control
 ![Harp-Bonsai](../../assets/images/bonsai-harp.svg)
 
-[cf-hw.org/harp](https://www.cf-hw.org/harp)
+[harp-tech.org](https://harp-tech.org/)
 
 </script>
 </section>
