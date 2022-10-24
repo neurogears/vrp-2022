@@ -37,20 +37,20 @@ permalink: /slides/intro/
 ---
 
 <!-- .element: data-transition="default none" -->
-#### What kind of algebra?
+#### What is Bonsai?
 ![Reactive Programming](../../assets/images/bonsai-algebra-1.svg)
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
 --
 
 <!-- .element: data-transition="none" -->
-#### What kind of algebra?
+#### What is Bonsai?
 ![Reactive Programming](../../assets/images/bonsai-algebra-2.svg)
 
 --
 
 <!-- .element: data-transition="none" -->
-#### What kind of algebra?
+#### What is Bonsai?
 ![Reactive Programming](../../assets/images/bonsai-algebra.svg)
 
 ---
