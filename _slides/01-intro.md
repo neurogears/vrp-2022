@@ -63,19 +63,6 @@ permalink: /slides/intro/
 
 <!-- .element: data-transition="default none" -->
 ### Why do we need a new algebra?
-![Behavior Experiments](../../assets/images/behavior-experiments-5c.svg)
-<!-- .element: class="fragment" data-fragment-index="1" -->
-
---
-
-<!-- .element: data-transition="none" -->
-### Why do we need a new algebra?
-![Behavior Experiments](../../assets/images/behavior-experiments-5.svg)
-
---
-
-<!-- .element: data-transition="none" -->
-### Why do we need a new algebra?
 ![Behavior Experiments](../../assets/images/behavior-experiments-1.svg)
 
 --
@@ -95,6 +82,18 @@ permalink: /slides/intro/
 <!-- .element: data-transition="none" -->
 ### Why do we need a new algebra?
 ![Behavior Experiments](../../assets/images/behavior-experiments-4.svg)
+
+--
+
+<!-- .element: data-transition="none" -->
+### Why do we need a new algebra?
+![Behavior Experiments](../../assets/images/behavior-experiments-5c.svg)
+
+--
+
+<!-- .element: data-transition="none" -->
+### Why do we need a new algebra?
+![Behavior Experiments](../../assets/images/behavior-experiments-5.svg)
 
 ---
 
