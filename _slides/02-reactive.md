@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: Reactive Programming
+title: Reactive Operators
 permalink: /slides/reactive/
 ---
 
@@ -9,7 +9,7 @@ permalink: /slides/reactive/
 
 ![Bonsai](../../assets/images/bonsai-lettering.svg)
 
-### Reactive Programming
+### Reactive Operators
 [neurogears.org/vrp-2022](https://neurogears.org/vrp-2022)
 <table style="width: 100%;">
   <tr>
@@ -27,7 +27,7 @@ permalink: /slides/reactive/
 ### Outline
 
 * Recap
-* Reactive Combinators
+* Reactive Operators
 
 ---
 
