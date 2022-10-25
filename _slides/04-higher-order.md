@@ -74,9 +74,15 @@ permalink: /slides/higher-order/
 ![Subjects (Publish)](../../assets/images/subjects-publish-simple.svg)
 <!-- .element: class="fragment" style="display: inline-block; vertical-align: top; padding-left: 120px;" -->
 
---
+---
 
-### Sharing observable sequences
+### Subject scope
+
+![Subject scope](../../assets/images/subjects-scope.svg)
+
+---
+
+### Hot vs cold sequences
 
 ![Publish](../../assets/images/publish.svg)
 <!-- .element: style="display: inline-block; vertical-align: top;" -->
@@ -85,12 +91,12 @@ permalink: /slides/higher-order/
 
 --
 
-### Sharing observable sequences
+### Hot vs cold sequences
 
 ![Subjects (Publish)](../../assets/images/subjects-publish.svg)
 <!-- .element: style="display: inline-block; vertical-align: top; padding-left: 120px;" -->
 ![Subjects (Replay)](../../assets/images/subjects-replay.svg)
-<!-- .element: class="fragment" style="display: inline-block; vertical-align: top; padding-left: 120px;" -->
+<!-- .element: style="display: inline-block; vertical-align: top; padding-left: 120px;" -->
 
 ---
 
