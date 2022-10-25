@@ -24,10 +24,18 @@ This training course will introduce you to the basic concepts of data acquisitio
         <tr>
             <td>Seminar</td>
             <td style="color:chocolate" align="center">Introduction to Bonsai</td>
-            <td style="color:chocolate" align="center">Pose Tracking<hr>Synchronization</td>
+            <td style="color:chocolate" align="center">Reactive Operators</td>
             <td style="color:chocolate" align="center">Higher Order Operators</td>
             <td style="color:chocolate" align="center">BonVision</td>
             <td style="color:chocolate" align="center">Wrap-up</td>
+        </tr>
+        <tr>
+            <td>Recap</td>
+            <td style="color:chocolate;background-color:bisque" align="center"></td>
+            <td style="color:chocolate;background-color:bisque" align="center">Object Tracking</td>
+            <td style="color:chocolate;background-color:bisque" align="center">Data Synchronization</td>
+            <td style="color:chocolate;background-color:bisque" align="center">State Machines</td>
+            <td style="color:chocolate;background-color:bisque" align="center"></td>
         </tr>
         <tr>
             <td>Workshop</td>
@@ -48,11 +56,11 @@ This training course will introduce you to the basic concepts of data acquisitio
 - Measuring behavior using voltages and an Arduino.
 
 ### Day 2 - Real-time closed-loop experiments
-- Real-time markerless pose tracking using [Bonsai + DeepLabCut](https://github.com/bonsai-rx/deeplabcut){:target="_blank"} and [Bonsai + SLEAP](https://github.com/bonsai-rx/sleap){:target="_blank"}.
 - Data synchronization and measuring closed-loop latency.
 - Conditional effects. Triggering a stimulus based on video activity.
 - Continuous feedback. Modulate stimulus intensity with speed or distance.
 - Feedback stabilization. Record video centered around a moving object.
+- Real-time markerless pose tracking using [Bonsai + DeepLabCut](https://github.com/bonsai-rx/deeplabcut){:target="_blank"} and [Bonsai + SLEAP](https://github.com/bonsai-rx/sleap){:target="_blank"}.
 
 ### Day 3 - Operant behavior tasks
 - Creating dynamic observable sequences with higher-order operators.
