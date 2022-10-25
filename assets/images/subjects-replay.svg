@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="237.40239"
    height="453.5433"
    id="SvgGdi_output"
    version="1.1"
    sodipodi:docname="subjects-replay.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   viewBox="0 0 118.7012 226.77165">
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   viewBox="0 0 118.7012 226.77165"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata71">
     <rdf:RDF>
@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,8 +34,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="3000"
-     inkscape:window-height="1875"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
      id="namedview69"
      showgrid="false"
      fit-margin-top="0"
@@ -44,12 +43,13 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="2.1034472"
-     inkscape:cx="2.3869703"
-     inkscape:cy="223.67741"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
+     inkscape:cx="2.3770504"
+     inkscape:cy="223.44274"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="SvgGdi_output" />
+     inkscape:current-layer="SvgGdi_output"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="clips_hatches_and_gradients">
     <clipPath
@@ -160,6 +160,42 @@
          height="39.59"
          id="687" />
     </clipPath>
+    <clipPath
+       id="346_text_clipper">
+      <rect
+         x="84"
+         y="39"
+         width="41.52"
+         height="27.65"
+         id="347" />
+    </clipPath>
+    <clipPath
+       id="352_text_clipper">
+      <rect
+         x="84"
+         y="51.450001"
+         width="41.52"
+         height="27.65"
+         id="353" />
+    </clipPath>
+    <clipPath
+       id="362_text_clipper">
+      <rect
+         x="4"
+         y="39"
+         width="43.970001"
+         height="27.65"
+         id="363" />
+    </clipPath>
+    <clipPath
+       id="368_text_clipper">
+      <rect
+         x="4"
+         y="51.450001"
+         width="43.970001"
+         height="27.65"
+         id="369" />
+    </clipPath>
   </defs>
   <text
      xml:space="preserve"
@@ -176,81 +212,96 @@
        y="31.718113"
        id="tspan227">(Replay)</tspan></text>
   <g
-     transform="matrix(0.50000001,0,0,0.50000001,0.93333904,-8.2342395)"
-     id="g945">
+     style="shape-rendering:auto"
+     id="root_group"
+     transform="matrix(0.75000213,0,0,0.75000213,0.93333058,51.765753)">
     <line
-       y1="148.5"
-       style="fill:none;stroke:#a9a9a9;stroke-width:1.5;stroke-miterlimit:9"
-       id="639"
-       x2="120"
-       y2="148.5"
-       x1="57" />
+       y1="19"
+       id="338"
+       x2="80"
+       y2="19"
+       x1="38"
+       style="opacity:1;fill:none;stroke:#a9a9a9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:9" />
     <path
-       d="M 141.237,175.8 C 131.1081,173.63865 123.2085,165.7038 121.0935,155.565"
-       style="fill:none;stroke:#a9a9a9;stroke-width:3;stroke-miterlimit:9"
-       id="649"
-       inkscape:connector-curvature="0" />
+       style="opacity:1;fill:none;stroke:#a9a9a9;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:9"
+       transform="translate(84,4)"
+       id="339"
+       d="M 10.158,33.2 C 3.4054,31.7591 -1.861,26.4692 -3.271,19.71" />
     <circle
-       id="650"
-       cy="148.5"
-       cx="148.5"
-       style="fill:#9b5bb3;stroke-width:1.5"
-       r="22.5" />
+       id="340"
+       cy="15"
+       cx="15"
+       transform="translate(84,4)"
+       style="opacity:1;fill:#9b5bb3;stroke:none"
+       r="15" />
     <path
-       d="M 138.9375,138.6 139.45312,139.35 145.92187,148.5375 138.93757,158.42805 138.42195,159.17805 H 143.62515 L 143.76577,158.99055 148.50007,151.8186 149.2032,152.85 153.1875,158.99055 153.32812,159.17805 H 158.57812 L 158.0625,158.42805 150.9375,148.30305 157.5468,139.35 158.1093,138.6 H 152.9532 L 152.81257,138.8343 149.53132,143.42805 149.48445,143.475 C 149.16067,143.9223 148.77138,144.48495 148.40632,145.0218 148.11104,144.5355 147.82977,144.05745 147.42195,143.42805 L 144.42195,138.8343 144.28132,138.6 H 139.87507 Z"
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:1.5"
-       id="651"
-       inkscape:connector-curvature="0" />
+       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none"
+       transform="translate(84,4)"
+       id="341"
+       d="m 11.656,8.2 0.34375,0.5 4.3125,6.0937 -4.6562,6.625 -0.375,0.5 h 3.4688 l 0.09375,-0.1563 3.1562,-4.75 0.46875,0.6876 2.6875,4.0624 0.09375,0.1563 h 3.5 l -0.34375,-0.5 -4.75,-6.75 4.4062,-5.968703 0.34375,-0.5 h -3.4062 l -0.09375,0.125 -2.2188,3.093703 c -0.22474,0.3098 -0.46392,0.6875 -0.71875,1.0625 -0.19804,-0.3265 -0.38173,-0.6388 -0.65625,-1.0625 l -2.0312,-3.062503 -0.09375,-0.1562 h -3.5312 z" />
+    <path
+       transform="translate(84,4)"
+       id="342"
+       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:1.293;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:9"
+       d="m 11.351,13.1 c 0.07344,1.9467 -2.043,3.5165 -3.8842,2.8895 -1.884,-0.48977 -2.7834,-2.967 -1.6509,-4.5508 0.52982,-0.81489 1.4705,-1.3365 2.442099,-1.3545" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none"
+       transform="translate(84,4)"
+       id="343"
+       d="M 8.0275,12.161 V 8.2818 l 3.3595,1.9396 -1.6798,0.96984 z" />
     <text
-       id="652"
-       x="126"
-       y="178.5"
-       style="font-size:15.74666691px;font-family:'Microsoft Sans Serif';fill:#000000"
-       clip-path="url(#654_text_clipper)">
-      <tspan
-         dy="11.81pt"
-         id="656">ReplaySubject</tspan>
-    </text>
+       id="344"
+       x="84"
+       y="39"
+       style="font-size:11px;font-family:'Microsoft Sans Serif';opacity:1;fill:#000000;stroke:none"
+       clip-path="url(#346_text_clipper)"><tspan
+         dy="8.25pt"
+         id="348">Replay</tspan></text>
+    <text
+       id="350"
+       x="84"
+       y="51.450001"
+       style="font-size:11px;font-family:'Microsoft Sans Serif';opacity:1;fill:#000000;stroke:none"
+       clip-path="url(#352_text_clipper)"><tspan
+         dy="8.25pt"
+         id="354">Subject</tspan></text>
     <path
-       d="M 52.7685,133.8 C 58.49775,142.6377 58.4721,154.023 52.70328,162.8355"
-       style="fill:none;stroke:#a9a9a9;stroke-width:3;stroke-miterlimit:9"
-       id="674"
-       inkscape:connector-curvature="0" />
+       style="opacity:1;fill:none;stroke:#a9a9a9;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:9"
+       transform="translate(4,4)"
+       id="356"
+       d="m 31.179,5.2 c 3.8195,5.8918 3.8024,13.482 -0.04348,19.357" />
     <circle
-       id="675"
-       cy="148.5"
-       cx="28.5"
-       style="fill:#5bb27e;stroke-width:1.5"
-       r="22.5" />
+       id="357"
+       cy="15"
+       cx="15"
+       transform="translate(4,4)"
+       style="opacity:1;fill:#5bb27e;stroke:none"
+       r="15" />
     <path
-       d="M 41.625,139.65 35.33805,143.28165 V 153.59055 L 41.625,157.22205 Z"
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:1.5"
-       id="676"
-       inkscape:connector-curvature="0" />
+       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none"
+       transform="translate(4,4)"
+       id="358"
+       d="m 23.75,9.1 -4.1913,2.4211 v 6.8726 l 4.1913,2.421 z" />
     <path
-       d="M 19.03905,139.8 H 29.5791 C 31.785,139.8 33.56085,141.65055 33.56085,143.94915 V 152.7351 C 33.56085,155.0337 31.785,156.88395 29.5791,156.88395 H 19.039051 C 16.833151,156.88395 15.057301,155.0337 15.057301,152.7351 V 143.94915 C 15.057301,141.65055 16.833151,139.8 19.039051,139.8 Z"
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:1.5"
-       id="677"
-       inkscape:connector-curvature="0" />
+       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none"
+       transform="translate(4,4)"
+       id="359"
+       d="m 8.6927,9.2 h 7.0267 c 1.4706,0 2.6545,1.2337 2.6545,2.7661 v 5.8573 c 0,1.5324 -1.1839,2.7659 -2.6545,2.7659 H 8.692701 c -1.4706,0 -2.6545,-1.2335 -2.6545,-2.7659 v -5.8573 c 0,-1.5324 1.1839,-2.766101 2.6545,-2.766101 z" />
     <text
-       id="678"
-       x="6"
-       y="178.5"
-       style="font-size:15.74666691px;font-family:'Microsoft Sans Serif';fill:#000000"
-       clip-path="url(#680_text_clipper)">
-      <tspan
-         dy="11.81pt"
-         id="682">Camera</tspan>
-    </text>
+       id="360"
+       x="4"
+       y="39"
+       style="font-size:11px;font-family:'Microsoft Sans Serif';opacity:1;fill:#000000;stroke:none"
+       clip-path="url(#362_text_clipper)"><tspan
+         dy="8.25pt"
+         id="364">Camera</tspan></text>
     <text
-       id="684"
-       x="6"
-       y="196.33"
-       style="font-size:15.74666691px;font-family:'Microsoft Sans Serif';fill:#000000"
-       clip-path="url(#686_text_clipper)">
-      <tspan
-         dy="11.81pt"
-         id="688">Capture</tspan>
-    </text>
+       id="366"
+       x="4"
+       y="51.450001"
+       style="font-size:11px;font-family:'Microsoft Sans Serif';opacity:1;fill:#000000;stroke:none"
+       clip-path="url(#368_text_clipper)"><tspan
+         dy="8.25pt"
+         id="370">Capture</tspan></text>
   </g>
 </svg>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="150mm"
    height="83.062477mm"
    id="SvgGdi_output"
    version="1.1"
-   sodipodi:docname="higherorder-concatfiles-1.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="higherorder-concatfiles.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata45">
     <rdf:RDF>
@@ -21,7 +21,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,231 +33,22 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="3000"
-     inkscape:window-height="1875"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
      id="namedview43"
      showgrid="false"
      units="mm"
      inkscape:zoom="1.9628788"
-     inkscape:cx="324.91745"
-     inkscape:cy="104.74705"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
+     inkscape:cx="325.0328"
+     inkscape:cy="104.9479"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="SvgGdi_output" />
-  <g
-     id="root_group"
-     transform="translate(14.57207,47.085531)">
-    <line
-       y1="28.5"
-       style="fill:none;stroke:#a9a9a9;stroke-width:1.5;stroke-miterlimit:9"
-       id="370"
-       x2="240"
-       y2="28.5"
-       x1="177" />
-    <line
-       y1="28.5"
-       style="fill:none;stroke:#a9a9a9;stroke-width:1.5;stroke-miterlimit:9"
-       id="371"
-       x2="120"
-       y2="28.5"
-       x1="57" />
-    <circle
-       id="372"
-       cy="15"
-       cx="15"
-       transform="matrix(1.5,0,0,1.5,246,6)"
-       style="fill:#eec04b"
-       r="15" />
-    <path
-       transform="matrix(1.5,0,0,1.5,246,6)"
-       id="373"
-       d="M 12.246,6.0137 V 6.019559 C 12.05806,6.020259 11.89471,6.040434 11.76748,6.066434 10.86869,6.352735 10.89631,6.934374 9.87688,7.685534 8.863379,8.264335 8.35338,7.819914 7.61518,8.419914 6.87845,9.015514 7.39292,10.38251 7.08393,10.64841 6.77722,11.18001 5.82553,11.65471 5.65233,12.32611 5.50916,13.18481 6.04191,13.79701 6.02147,14.53311 6.08287,15.14641 5.41127,15.49489 5.5078,15.99211 5.79702,16.80421 6.35438,17.29221 6.6172,17.51751 6.663351,17.54951 6.700028,17.5985 6.714856,17.6015 6.790713,17.792 6.858586,17.98645 6.955086,18.16595 6.949606,18.13995 6.948576,18.11382 6.943367,18.08782 6.998228,18.30542 7.055077,18.52401 7.132816,18.73821 8.683116,22.09901 12.81412,24.68611 17.34182,24.11711 19.54102,23.84771 22.82442,22.33171 24.16602,18.73821 23.22044,19.58671 21.53152,20.32421 20.77732,20.38081 23.33002,19.10511 24.70712,16.93741 24.32031,13.97461 23.79154,15.23341 23.09341,16.20131 22.22071,16.86521 24.07451,13.97551 23.75691,12.48131 22.38478,10.83981 23.36615,13.53881 22.09719,16.53431 19.33208,18.66401 20.45238,18.78541 21.51657,18.51614 22.50198,17.71284 21.01318,19.37354 19.14968,20.20834 17.01368,20.43554 18.03358,21.30254 19.01818,21.69454 19.95898,21.52734 17.34458,22.24884 15.15478,21.45428 12.49018,18.80074 12.3507,19.51504 13.10514,20.62754 13.88278,21.33784 9.373278,19.38284 8.976177,13.29584 14.46872,11.79294 14.47202,11.79294 14.47518,11.79384 14.47848,11.79294 17.74978,13.70674 21.86528,13.58084 22.05078,12.34372 22.50885,10.86082 19.96508,7.805223 16.16208,7.007823 15.4618,6.871123 14.79228,6.817344 14.15428,6.835943 14.16706,6.835943 14.17858,6.836182 14.19139,6.826178 13.58399,6.177278 12.80989,6.011678 12.24609,6.013678 Z M 17.17769,9.046878 C 17.72373,9.046878 18.22259,9.543848 18.22259,10.08988 18.22259,10.63598 17.72371,11.13288 17.17769,11.13288 16.63165,11.13288 16.13469,10.63601 16.13469,10.08988 16.13474,9.543879 16.63162,9.046778 17.17769,9.046878 Z"
-       style="fill:#ffffff;fill-rule:evenodd"
-       inkscape:connector-curvature="0" />
-    <circle
-       id="374"
-       cy="28.5"
-       cx="246"
-       style="fill:none;stroke:#a9a9a9;stroke-width:3;stroke-miterlimit:9"
-       r="4.5" />
-    <circle
-       id="375"
-       cy="28.5"
-       cx="246"
-       style="fill:#ffffff"
-       r="4.5" />
-    <text
-       id="376"
-       x="246"
-       y="58.5"
-       style="font-size:15.74666691px;font-family:'Microsoft Sans Serif';fill:#000000"
-       clip-path="url(#378_text_clipper)">
-      <tspan
-         dy="11.81pt"
-         id="380">Concat</tspan>
-    </text>
-    <circle
-       id="382"
-       cy="15"
-       cx="15"
-       transform="matrix(1.5,0,0,1.5,126,6)"
-       style="fill:#eec04b"
-       r="15" />
-    <circle
-       id="383"
-       cy="15"
-       cx="15"
-       transform="matrix(1.5,0,0,1.5,126,6)"
-       style="fill:none;stroke:#a9a9a9;stroke-width:2;stroke-miterlimit:9"
-       r="15" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:9"
-       transform="matrix(1.5,0,0,1.5,126,6)"
-       id="384"
-       d="M 17.685,10.264 9.851999,15.0121 17.7401,19.7936"
-       inkscape:connector-curvature="0" />
-    <circle
-       id="385"
-       cy="15.09"
-       cx="8.9099998"
-       transform="matrix(1.5,0,0,1.5,126,6)"
-       style="fill:#ffffff"
-       r="3.4100001" />
-    <circle
-       id="386"
-       cy="8.9799995"
-       cx="19.82"
-       transform="matrix(1.5,0,0,1.5,126,6)"
-       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:9"
-       r="2.5" />
-    <circle
-       id="387"
-       cy="21.07"
-       cx="19.889999"
-       transform="matrix(1.5,0,0,1.5,126,6)"
-       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:9"
-       r="2.5" />
-    <text
-       id="388"
-       x="126"
-       y="58.5"
-       style="font-size:15.74666691px;font-family:'Microsoft Sans Serif';fill:#000000"
-       clip-path="url(#390_text_clipper)">
-      <tspan
-         dy="11.81pt"
-         id="392">Create</tspan>
-    </text>
-    <text
-       id="394"
-       x="126"
-       y="76.330002"
-       style="font-size:15.74666691px;font-family:'Microsoft Sans Serif';fill:#000000"
-       clip-path="url(#396_text_clipper)">
-      <tspan
-         dy="11.81pt"
-         id="398">Observable</tspan>
-    </text>
-    <path
-       style="fill:none;stroke:#a9a9a9;stroke-width:2;stroke-miterlimit:9"
-       transform="matrix(1.5,0,0,1.5,6,6)"
-       id="400"
-       d="M 31.179,5.2 C 34.9985,11.0918 34.9814,18.682 31.13552,24.557"
-       inkscape:connector-curvature="0" />
-    <circle
-       id="401"
-       cy="15"
-       cx="15"
-       transform="matrix(1.5,0,0,1.5,6,6)"
-       style="fill:#5bb27e"
-       r="15" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:9"
-       transform="matrix(1.5,0,0,1.5,6,6)"
-       id="402"
-       d="M 7.3965,19.566 V 10.8433"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:9"
-       transform="matrix(1.5,0,0,1.5,6,6)"
-       id="403"
-       d="M 11.085,22.137 14.2178,8.273999"
-       inkscape:connector-curvature="0" />
-    <circle
-       id="404"
-       cy="15.15"
-       cx="20.49"
-       transform="matrix(1.5,0,0,1.5,6,6)"
-       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:9"
-       r="4.1799998" />
-    <text
-       id="405"
-       x="6"
-       y="58.5"
-       style="font-size:15.74666691px;font-family:'Microsoft Sans Serif';fill:#000000"
-       clip-path="url(#407_text_clipper)">
-      <tspan
-         dy="11.81pt"
-         id="409">Enumerate</tspan>
-    </text>
-    <text
-       id="411"
-       x="6"
-       y="76.330002"
-       style="font-size:15.74666691px;font-family:'Microsoft Sans Serif';fill:#000000"
-       clip-path="url(#413_text_clipper)">
-      <tspan
-         dy="11.81pt"
-         id="415">Files</tspan>
-    </text>
-  </g>
+     inkscape:current-layer="SvgGdi_output"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm" />
   <defs
      id="clips_hatches_and_gradients">
-    <clipPath
-       id="378_text_clipper">
-      <rect
-         x="246"
-         y="58.5"
-         width="56.650002"
-         height="19.799999"
-         id="379" />
-    </clipPath>
-    <clipPath
-       id="390_text_clipper">
-      <rect
-         x="126"
-         y="58.5"
-         width="88.300003"
-         height="39.59"
-         id="391" />
-    </clipPath>
-    <clipPath
-       id="396_text_clipper">
-      <rect
-         x="126"
-         y="76.330002"
-         width="88.300003"
-         height="39.59"
-         id="397" />
-    </clipPath>
-    <clipPath
-       id="407_text_clipper">
-      <rect
-         x="6"
-         y="58.5"
-         width="84.589996"
-         height="39.59"
-         id="408" />
-    </clipPath>
-    <clipPath
-       id="413_text_clipper">
-      <rect
-         x="6"
-         y="76.330002"
-         width="84.589996"
-         height="39.59"
-         id="414" />
-    </clipPath>
     <clipPath
        id="431_text_clipper">
       <rect
@@ -303,6 +93,51 @@
          width="65.669998"
          height="19.799999"
          id="469" />
+    </clipPath>
+    <clipPath
+       id="487_text_clipper">
+      <rect
+         x="164"
+         y="39"
+         width="39.560001"
+         height="13.83"
+         id="488" />
+    </clipPath>
+    <clipPath
+       id="498_text_clipper">
+      <rect
+         x="84"
+         y="39"
+         width="61.669998"
+         height="27.65"
+         id="499" />
+    </clipPath>
+    <clipPath
+       id="504_text_clipper">
+      <rect
+         x="84"
+         y="51.450001"
+         width="61.669998"
+         height="27.65"
+         id="505" />
+    </clipPath>
+    <clipPath
+       id="515_text_clipper">
+      <rect
+         x="4"
+         y="39"
+         width="59.080002"
+         height="27.65"
+         id="516" />
+    </clipPath>
+    <clipPath
+       id="521_text_clipper">
+      <rect
+         x="4"
+         y="51.450001"
+         width="59.080002"
+         height="27.65"
+         id="522" />
     </clipPath>
   </defs>
   <g
@@ -367,22 +202,18 @@
        id="429"
        x="366"
        y="58.5"
-       style="font-size:15.74666691px;font-family:'Microsoft Sans Serif';fill:#000000"
-       clip-path="url(#431_text_clipper)">
-      <tspan
+       style="font-size:15.7467px;font-family:'Microsoft Sans Serif';fill:#000000"
+       clip-path="url(#431_text_clipper)"><tspan
          dy="11.81pt"
-         id="433">Workflow</tspan>
-    </text>
+         id="433">Workflow</tspan></text>
     <text
        id="435"
        x="366"
        y="76.330002"
-       style="font-size:15.74666691px;font-family:'Microsoft Sans Serif';fill:#000000"
-       clip-path="url(#437_text_clipper)">
-      <tspan
+       style="font-size:15.7467px;font-family:'Microsoft Sans Serif';fill:#000000"
+       clip-path="url(#437_text_clipper)"><tspan
          dy="11.81pt"
-         id="439">Output</tspan>
-    </text>
+         id="439">Output</tspan></text>
     <path
        inkscape:connector-curvature="0"
        d="M 31.179,5.2 C 34.9985,11.0918 34.9814,18.682 31.13552,24.557"
@@ -412,12 +243,10 @@
        id="445"
        x="246"
        y="58.5"
-       style="font-size:15.74666691px;font-family:'Microsoft Sans Serif';fill:#000000"
-       clip-path="url(#447_text_clipper)">
-      <tspan
+       style="font-size:15.7467px;font-family:'Microsoft Sans Serif';fill:#000000"
+       clip-path="url(#447_text_clipper)"><tspan
          dy="11.81pt"
-         id="449">FileCapture</tspan>
-    </text>
+         id="449">FileCapture</tspan></text>
     <path
        inkscape:connector-curvature="0"
        transform="matrix(1.5,0,0,1.5,126,6)"
@@ -448,12 +277,10 @@
        id="455"
        x="126"
        y="58.5"
-       style="font-size:15.74666691px;font-family:'Microsoft Sans Serif';fill:#000000"
-       clip-path="url(#457_text_clipper)">
-      <tspan
+       style="font-size:15.7467px;font-family:'Microsoft Sans Serif';fill:#000000"
+       clip-path="url(#457_text_clipper)"><tspan
          dy="11.81pt"
-         id="459">FileName</tspan>
-    </text>
+         id="459">FileName</tspan></text>
     <path
        inkscape:connector-curvature="0"
        d="M 31.179,5.2 C 34.9985,11.0918 34.9814,18.682 31.13552,24.557"
@@ -492,12 +319,10 @@
        id="466"
        x="6"
        y="58.5"
-       style="font-size:15.74666691px;font-family:'Microsoft Sans Serif';fill:#000000"
-       clip-path="url(#468_text_clipper)">
-      <tspan
+       style="font-size:15.7467px;font-family:'Microsoft Sans Serif';fill:#000000"
+       clip-path="url(#468_text_clipper)"><tspan
          dy="11.81pt"
-         id="470">Source1</tspan>
-    </text>
+         id="470">Source1</tspan></text>
   </g>
   <path
      style="fill:none;stroke:#000000;stroke-dasharray:1, 3"
@@ -510,4 +335,149 @@
      id="path942"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
+  <g
+     style="shape-rendering:auto"
+     id="root_group-3"
+     transform="matrix(1.499993,0,0,1.499993,14.572098,47.085552)">
+    <line
+       y1="19"
+       style="opacity:1;fill:none;stroke:#a9a9a9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:9"
+       id="479"
+       x2="160"
+       y2="19"
+       x1="118" />
+    <line
+       y1="19"
+       style="opacity:1;fill:none;stroke:#a9a9a9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:9"
+       id="480"
+       x2="80"
+       y2="19"
+       x1="38" />
+    <circle
+       id="481"
+       cy="15"
+       cx="15"
+       transform="translate(164,4)"
+       style="opacity:1;fill:#eec04b;stroke:none"
+       r="15" />
+    <path
+       transform="translate(164,4)"
+       id="482"
+       d="m 12.246,6.0137 v 0.00586 c -0.18794,7e-4 -0.35129,0.020875 -0.47852,0.046875 -0.89879,0.286301 -0.87117,0.86794 -1.8906,1.6191 -1.013501,0.578801 -1.5235,0.13438 -2.2617,0.73438 -0.73673,0.5956 -0.22226,1.962596 -0.53125,2.228496 -0.30671,0.5316 -1.2584,1.0063 -1.4316,1.6777 -0.14317,0.8587 0.38958,1.4709 0.36914,2.207 0.0614,0.6133 -0.6102,0.96178 -0.51367,1.459 0.28922,0.8121 0.84658,1.3001 1.1094,1.5254 0.046151,0.032 0.082828,0.08099 0.097656,0.08399 0.075857,0.1905 0.14373,0.38495 0.24023,0.56445 -0.00548,-0.026 -0.00651,-0.05213 -0.011719,-0.07813 0.054861,0.2176 0.11171,0.43619 0.189449,0.65039 1.5503,3.3608 5.681304,5.9479 10.209004,5.3789 2.1992,-0.2694 5.4826,-1.7854 6.8242,-5.3789 -0.94558,0.8485 -2.6345,1.586 -3.3887,1.6426 2.5527,-1.2757 3.9298,-3.4434 3.54299,-6.4062 -0.52877,1.2588 -1.2269,2.2267 -2.0996,2.8906 1.8538,-2.8897 1.5362,-4.3839 0.16407,-6.0254 0.98137,2.699 -0.28759,5.6945 -3.0527,7.8242 1.1203,0.1214 2.18449,-0.14787 3.1699,-0.95117 -1.4888,1.6607 -3.3523,2.4955 -5.4883,2.7227 1.0199,0.867 2.0045,1.259 2.9453,1.0918 -2.6144,0.7215 -4.8042,-0.07306 -7.4688,-2.7266 -0.13948,0.7143 0.61496,1.8268 1.3926,2.5371 -4.509502,-1.955 -4.906603,-8.042 0.58594,-9.5449 0.0033,0 0.0065,9e-4 0.0098,0 3.2713,1.9138 7.3868,1.7879 7.5723,0.55078 0.45807,-1.4829 -2.0857,-4.538497 -5.8887,-5.335897 -0.70028,-0.1367 -1.3698,-0.190479 -2.0078,-0.17188 0.01278,0 0.0243,2.39e-4 0.03711,-0.00977 -0.6074,-0.6489 -1.3815,-0.8145 -1.9453,-0.8125 z m 4.93169,3.033178 c 0.54604,0 1.0449,0.49697 1.0449,1.043002 0,0.5461 -0.49888,1.043 -1.0449,1.043 -0.54604,0 -1.043,-0.49687 -1.043,-1.043 5e-5,-0.546001 0.49693,-1.043102 1.043,-1.043002 z"
+       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none" />
+    <circle
+       id="483"
+       cy="19"
+       cx="164"
+       style="opacity:1;fill:none;stroke:#a9a9a9;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:9"
+       r="3" />
+    <circle
+       id="484"
+       cy="19"
+       cx="164"
+       style="opacity:1;fill:#ffffff;stroke:none"
+       r="3" />
+    <text
+       id="485"
+       x="164"
+       y="39"
+       style="font-size:11px;font-family:'Microsoft Sans Serif';opacity:1;fill:#000000;stroke:none"
+       clip-path="url(#487_text_clipper)"><tspan
+         dy="8.25pt"
+         id="489">Concat</tspan></text>
+    <circle
+       id="491"
+       cy="15"
+       cx="15"
+       transform="translate(84,4)"
+       style="opacity:1;fill:#eec04b;stroke:none"
+       r="15" />
+    <circle
+       id="492"
+       cy="15"
+       cx="15"
+       transform="translate(84,4)"
+       style="opacity:1;fill:none;stroke:#a9a9a9;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:9"
+       r="15" />
+    <path
+       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:9"
+       transform="translate(84,4)"
+       id="493"
+       d="m 14.876,8.3823 v 12.899" />
+    <circle
+       id="494"
+       cy="14.83"
+       cx="8.4700003"
+       transform="translate(84,4)"
+       style="opacity:1;fill:#ffffff;stroke:none"
+       r="3.4000001" />
+    <circle
+       id="495"
+       cy="14.83"
+       cx="21.33"
+       transform="translate(84,4)"
+       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:9"
+       r="2.5" />
+    <text
+       id="496"
+       x="84"
+       y="39"
+       style="font-size:11px;font-family:'Microsoft Sans Serif';opacity:1;fill:#000000;stroke:none"
+       clip-path="url(#498_text_clipper)"><tspan
+         dy="8.25pt"
+         id="500">Create</tspan></text>
+    <text
+       id="502"
+       x="84"
+       y="51.450001"
+       style="font-size:11px;font-family:'Microsoft Sans Serif';opacity:1;fill:#000000;stroke:none"
+       clip-path="url(#504_text_clipper)"><tspan
+         dy="8.25pt"
+         id="506">Observable</tspan></text>
+    <path
+       style="opacity:1;fill:none;stroke:#a9a9a9;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:9"
+       transform="translate(4,4)"
+       id="508"
+       d="m 31.179,5.2 c 3.8195,5.8918 3.8024,13.482 -0.04348,19.357" />
+    <circle
+       id="509"
+       cy="15"
+       cx="15"
+       transform="translate(4,4)"
+       style="opacity:1;fill:#5bb27e;stroke:none"
+       r="15" />
+    <path
+       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:9"
+       transform="translate(4,4)"
+       id="510"
+       d="M 7.3965,19.566 V 10.8433" />
+    <path
+       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:9"
+       transform="translate(4,4)"
+       id="511"
+       d="M 11.085,22.137 14.2178,8.273999" />
+    <circle
+       id="512"
+       cy="15.15"
+       cx="20.49"
+       transform="translate(4,4)"
+       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:9"
+       r="4.1799998" />
+    <text
+       id="513"
+       x="4"
+       y="39"
+       style="font-size:11px;font-family:'Microsoft Sans Serif';opacity:1;fill:#000000;stroke:none"
+       clip-path="url(#515_text_clipper)"><tspan
+         dy="8.25pt"
+         id="517">Enumerate</tspan></text>
+    <text
+       id="519"
+       x="4"
+       y="51.450001"
+       style="font-size:11px;font-family:'Microsoft Sans Serif';opacity:1;fill:#000000;stroke:none"
+       clip-path="url(#521_text_clipper)"><tspan
+         dy="8.25pt"
+         id="523">Files</tspan></text>
+  </g>
 </svg>
