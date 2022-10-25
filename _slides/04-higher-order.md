@@ -84,6 +84,18 @@ permalink: /slides/higher-order/
 
 ### Hot vs cold sequences
 
+![Subscription effects](../../assets/images/temperature-effects.svg)
+
+--
+
+### Hot vs cold sequences
+
+![Temperature](../../assets/images/temperature.svg)
+
+--
+
+### Hot vs cold sequences
+
 ![Publish](../../assets/images/publish.svg)
 <!-- .element: style="display: inline-block; vertical-align: top;" -->
 ![Replay](../../assets/images/replay.svg)
