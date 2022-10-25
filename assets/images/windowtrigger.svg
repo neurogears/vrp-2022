@@ -11,12 +11,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="150mm"
-   height="134.52263mm"
-   viewBox="0 0 150 134.52263"
+   height="105.32222mm"
+   viewBox="0 0 150 105.32222"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="triggeredwindow-states-hidden.svg">
+   sodipodi:docname="windowtrigger.svg">
   <defs
      id="defs2">
     <g
@@ -216,8 +216,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="218.17494"
-     inkscape:cy="245.98958"
+     inkscape:cx="289.96065"
+     inkscape:cy="193.25776"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -246,7 +246,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-29.114578,-29.078553)">
+     transform="translate(-29.114578,-49.286752)">
     <g
        id="surface3883"
        transform="matrix(0.75291116,0,0,0.75291116,26.31474,45.83776)">

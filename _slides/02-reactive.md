@@ -250,16 +250,16 @@ permalink: /slides/reactive/
 ---
 
 <!-- .element: data-transition="default none" -->
-###### TriggeredBuffer
+###### BufferTrigger
 
-![TriggeredBuffer](../../assets/images/triggeredbuffer.svg)
+![BufferTrigger](../../assets/images/buffertrigger.svg)
 
 --
 
 <!-- .element: data-transition="none default" -->
-###### TriggeredBuffer: Signal Snapshot
+###### BufferTrigger: Signal Snapshot
 
-![SelectMany](../../assets/images/triggeredbuffer-snapshot.svg)
+![BufferTrigger](../../assets/images/buffertrigger-snapshot.svg)
 
 ---
 
@@ -270,16 +270,16 @@ permalink: /slides/reactive/
 ---
 
 <!-- .element: data-transition="default none" -->
-###### TriggeredWindow
+###### WindowTrigger
 
-![TriggeredWindow](../../assets/images/triggeredwindow.svg)
+![WindowTrigger](../../assets/images/windowtrigger.svg)
 
 --
 
 <!-- .element: data-transition="none default" -->
-###### TriggeredWindow: Record triggered video
+###### WindowTrigger: Record triggered video
 
-![SelectMany](../../assets/images/triggeredwindow-recordclip.svg)
+![WindowTrigger](../../assets/images/windowtrigger-recordclip.svg)
 
 </script>
 </section>

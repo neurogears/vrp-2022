@@ -139,16 +139,16 @@ Mesh of multi-purpose asynchronous devices
 --
 
 <!-- .element: data-transition="default none" -->
-###### TriggeredWindow
+###### WindowTrigger
 
-![TriggeredWindow](../../assets/images/triggeredwindow.svg)
+![WindowTrigger](../../assets/images/windowtrigger.svg)
 
 --
 
 <!-- .element: data-transition="none default" -->
 ###### Example: Record triggered video
 
-![SelectMany](../../assets/images/triggeredwindow-recordclip.svg)
+![WindowTrigger](../../assets/images/windowtrigger-recordclip.svg)
 
 </script>
 </section>

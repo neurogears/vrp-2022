@@ -115,7 +115,7 @@ To make our task more interesting, we will now trigger the stimulus manually usi
 * Insert a `Condition` operator.
 * In a new branch coming off the `VideoWriter`, insert a `Delay` operator.
 * Set the `DueTime` property of the `Delay` operator to 1 second.
-* Insert a `TriggeredWindow` operator, and set its `Count` property to 100.
+* Insert a `WindowTrigger` operator, and set its `Count` property to 100.
 * Insert a `SelectMany` operator and inside the nested node create the below workflow:
 
 ![Triggered Video Inner]({{ site.baseurl }}/assets/images/triggered-video-inner.svg)
