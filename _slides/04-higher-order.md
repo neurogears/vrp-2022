@@ -82,27 +82,38 @@ permalink: /slides/higher-order/
 
 ---
 
+<!-- .element: data-transition="default none" -->
+### Hot vs cold sequences
+
+![Subscription effects](../../assets/images/temperature-blank.svg)
+
+--
+
+<!-- .element: data-transition="none" -->
 ### Hot vs cold sequences
 
 ![Subscription effects](../../assets/images/temperature-effects.svg)
 
 --
 
+<!-- .element: data-transition="none" -->
 ### Hot vs cold sequences
 
 ![Temperature](../../assets/images/temperature.svg)
 
 --
 
+<!-- .element: data-transition="none" -->
 ### Hot vs cold sequences
 
 ![Publish](../../assets/images/publish.svg)
 <!-- .element: style="display: inline-block; vertical-align: top;" -->
 ![Replay](../../assets/images/replay.svg)
-<!-- .element: class="fragment" style="display: inline-block; vertical-align: top; padding-left: 40px;" -->
+<!-- .element: style="display: inline-block; vertical-align: top; padding-left: 40px;" -->
 
 --
 
+<!-- .element: data-transition="none default" -->
 ### Hot vs cold sequences
 
 ![Subjects (Publish)](../../assets/images/subjects-publish.svg)
