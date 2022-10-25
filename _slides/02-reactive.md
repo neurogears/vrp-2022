@@ -233,54 +233,6 @@ permalink: /slides/reactive/
 
 ![SelectMany](../../assets/images/selectmany-playsound-2.svg)
 
----
-
-<!-- .element: data-transition="default none" -->
-###### Buffer
-
-![Buffer](../../assets/images/buffer.svg)
-
---
-
-<!-- .element: data-transition="none default" -->
-###### Buffer: Moving Average
-
-![SelectMany](../../assets/images/buffer-movingaverage.svg)
-
----
-
-<!-- .element: data-transition="default none" -->
-###### BufferTrigger
-
-![BufferTrigger](../../assets/images/buffertrigger.svg)
-
---
-
-<!-- .element: data-transition="none default" -->
-###### BufferTrigger: Signal Snapshot
-
-![BufferTrigger](../../assets/images/buffertrigger-snapshot.svg)
-
----
-
-###### Window
-
-![Window](../../assets/images/window.svg)
-
----
-
-<!-- .element: data-transition="default none" -->
-###### WindowTrigger
-
-![WindowTrigger](../../assets/images/windowtrigger.svg)
-
---
-
-<!-- .element: data-transition="none default" -->
-###### WindowTrigger: Record triggered video
-
-![WindowTrigger](../../assets/images/windowtrigger-recordclip.svg)
-
 </script>
 </section>
 

@@ -67,44 +67,6 @@ permalink: /slides/higher-order/
 
 ---
 
-###### Window
-
-![Window](../../assets/images/window.svg)
-
----
-
-<!-- .element: data-transition="default none" -->
-###### WindowTrigger
-
-![WindowTrigger](../../assets/images/windowtrigger.svg)
-
---
-
-<!-- .element: data-transition="none default" -->
-###### WindowTrigger: Record triggered video
-
-![SelectMany](../../assets/images/windowtrigger-recordclip.svg)
-
----
-
-###### Amb
-
-![Amb](../../assets/images/amb.svg)
-
----
-
-###### Merge
-
-![Merge](../../assets/images/merge.svg)
-
----
-
-###### Concat
-
-![Concat](../../assets/images/concat.svg)
-
----
-
 ### Sharing observable sequences
 
 ![Branching](../../assets/images/branching-simple.svg)
@@ -145,6 +107,66 @@ permalink: /slides/higher-order/
 
 ![Subject types](../../assets/images/subjects.svg)
 <!-- .element: style="padding: 30px; display: inline-block; vertical-align: middle;" -->
+
+---
+
+<!-- .element: data-transition="default none" -->
+###### Buffer
+
+![Buffer](../../assets/images/buffer.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### Buffer: Moving Average
+
+![SelectMany](../../assets/images/buffer-movingaverage.svg)
+
+---
+
+<!-- .element: data-transition="default none" -->
+###### BufferTrigger
+
+![BufferTrigger](../../assets/images/buffertrigger.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### BufferTrigger: Signal Snapshot
+
+![BufferTrigger](../../assets/images/buffertrigger-snapshot.svg)
+
+---
+
+###### Window
+
+![Window](../../assets/images/window.svg)
+
+---
+
+<!-- .element: data-transition="default none" -->
+###### WindowTrigger
+
+![WindowTrigger](../../assets/images/windowtrigger.svg)
+
+--
+
+<!-- .element: data-transition="none default" -->
+###### WindowTrigger: Record triggered video
+
+![WindowTrigger](../../assets/images/windowtrigger-recordclip.svg)
+
+---
+
+###### Merge
+
+![Merge](../../assets/images/merge.svg)
+
+---
+
+###### Concat
+
+![Concat](../../assets/images/concat.svg)
 
 ---
 
