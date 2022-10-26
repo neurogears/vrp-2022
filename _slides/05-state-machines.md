@@ -27,8 +27,33 @@ permalink: /slides/state-machines/
 ### Outline
 
 * Recap
-* Representing discrete states
 * Groups, functions, and properties
+* Representing discrete states
+* Interactive visual environments
+
+---
+
+<!-- .element: data-transition="default none" -->
+### Group Types
+
+![Subject types](../../assets/images/group-types-1.svg)
+<!-- .element: style="padding: 30px; display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="none" -->
+### Group Types
+
+![Subject types](../../assets/images/group-types-2.svg)
+<!-- .element: style="padding: 30px; display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="none" -->
+### Group Types
+
+![Subject types](../../assets/images/group-types-3.svg)
+<!-- .element: style="padding: 30px; display: inline-block; vertical-align: middle;" -->
 
 ---
 
@@ -85,31 +110,27 @@ permalink: /slides/state-machines/
 ### Representing discrete states
 ![SelectMany](../../assets/images/selectmany-events-out.svg)
 
----
-
-<!-- .element: data-transition="default none" -->
-### Group Types
-
-![Subject types](../../assets/images/group-types-1.svg)
-<!-- .element: style="padding: 30px; display: inline-block; vertical-align: middle;" -->
-
---
-
-<!-- .element: data-transition="none" -->
-### Group Types
-
-![Subject types](../../assets/images/group-types-2.svg)
-<!-- .element: style="padding: 30px; display: inline-block; vertical-align: middle;" -->
-
---
-
-<!-- .element: data-transition="none" -->
-### Group Types
-
-![Subject types](../../assets/images/group-types-3.svg)
-<!-- .element: style="padding: 30px; display: inline-block; vertical-align: middle;" -->
-
 </script>
+</section>
+
+<section>
+  <h4>Interactive visual environments</h4>
+  <img src="../../assets/images/bonsai-bonvision.svg" alt="BonVision" />
+  <img src="https://bonvision.github.io/assets/Images/Demos/DemoAR_v3.gif" width="50%" alt="Augmented Reality in BonVision" />
+  <a href="https://bonvision.github.io/">bonvision.github.io</a>
+  <p>Saleem Lab and Solomon Lab</p>
+</section>
+
+<section>
+  <h4>Interactive visual environments</h4>
+  <img src="../../assets/images/elife-65541-fig1-v3.jpg" width="auto" height="431px" alt="BonVision" />
+  <p><a href="https://doi.org/10.7554/eLife.65541">Lopes et al., eLife 10:e65541</a></p>
+</section>
+
+<section>
+  <h4>Interactive visual environments</h4>
+  <img src="../../assets/images/elife-65541-fig3-v3.jpg" width="auto" height="431px" alt="BonVision" />
+  <p><a href="https://doi.org/10.7554/eLife.65541">Lopes et al., eLife 10:e65541</a></p>
 </section>
 
 <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
